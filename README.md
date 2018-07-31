@@ -3,4 +3,4 @@
 # Шелестов Сергей
 Мои домашние задания
 
-[Урок 12](https://shelestovser.github.io/lesson_12/ "Моя готовая домашка")- Работа ( репозиторием на GltHub
+[Урок 12](https://shelestovser.github.io/lesson_12/ "Моя готовая домашка")- Работа С репозиторием на GltHub
